@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#chartContainer {
+    max-width: 90vw;
+    max-height: 90vh;
+}
